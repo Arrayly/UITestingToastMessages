@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UITestingToastMessages</string>
+
+    <string name="toast_message">Hello World!</string>
+</resources>
